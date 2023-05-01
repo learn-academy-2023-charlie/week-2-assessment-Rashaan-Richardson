@@ -25,7 +25,7 @@ The map() method creates a new array populated with the results of calling a pro
 3. What is the difference between map and filter?
 
 Your answer:
-map returns everything that is passed through. While filter olny returns the ones with meet a certain codnitional 
+map returns everything that is passed through. While filter olny returns the ones with meet a certain codnitional.
 
 Researched answer:
 map returns a new array of elements where you have applied some function on the element so that it changes the original element (typically). filter returns a new array of the elements of the original array (with no change to the original values)

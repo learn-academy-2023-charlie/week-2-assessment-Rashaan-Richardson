@@ -117,7 +117,7 @@ const vowelTester3 = "challenges"
 // describe("vowelLog", () => {
 //     it("CCreate a function that takes in a string and logs the index of the first vowel", () => {
         // const vowelTester1 = "learn"
-    //     expect(vowelTester1(object1)).toEqual([])
+    //     expect(vowelTester1(object1)).toEqual(object1[1])
 //     })
 // })
 // b) Create the function that makes the test pass.

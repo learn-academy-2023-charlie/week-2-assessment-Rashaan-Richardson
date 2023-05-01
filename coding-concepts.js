@@ -82,4 +82,4 @@ const learnStudent = new Learn("George")
 // a new object with a name of George for student 
 
 // b) Verify and explain:
-// On line 73, student have the value of the variable name. We pass name in via the constructor. Therefore, whatever name wwe give, we will have that as our name for our object
+// On line 73, student have the value of the variable name. We pass name in via the constructor. Therefore, whatever name wwe give, we will have that as our name for our object.
